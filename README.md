@@ -1,2 +1,4 @@
 # hello-world
-Just another sample repository
+Hi Everyone!
+Welcome to Git Tutorials.
+
